@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2600fa62-b47c-4910-b239-22b1d30d6f1c" name="Changes" comment="add test_user_auth.py into tests and base_case.py into lib">
+    <list default="true" id="2600fa62-b47c-4910-b239-22b1d30d6f1c" name="Changes" comment="add test_get_cookie.py.py into tests">
       <change afterPath="$PROJECT_DIR$/compare_query_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assertions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/long_redidect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/get_cookie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_user_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_user_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_get_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_get_cookie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in get_cookie.py.executor": "Run",
+    "Python tests.Python tests in test_get_cookie.py.executor": "Run",
     "Python tests.Python tests in test_user_auth.py.executor": "Run",
     "Python.compare_query_type.executor": "Run",
     "Python.first_request.executor": "Run",
@@ -59,7 +58,7 @@
       <recent name="C:\Users\dliav\PycharmProjects\training\API_test_automation_with_requests\tests" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in test_get_cookie.py">
     <configuration name="guess_the_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_test_automation_with_requests" />
       <option name="ENV_FILES" value="" />
@@ -221,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707310085231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add test_get_cookie.py.py into tests">
+      <option name="closed" value="true" />
+      <created>1707313784913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707313784913</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -231,6 +238,7 @@
     <MESSAGE value="accomplish second lesson" />
     <MESSAGE value="add long_time_job_and_token.py and guess_the_password.py" />
     <MESSAGE value="add test_user_auth.py into tests and base_case.py into lib" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test_user_auth.py into tests and base_case.py into lib" />
+    <MESSAGE value="add test_get_cookie.py.py into tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test_get_cookie.py.py into tests" />
   </component>
 </project>
