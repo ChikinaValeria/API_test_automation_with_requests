@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2600fa62-b47c-4910-b239-22b1d30d6f1c" name="Changes" comment="accomplish second lesson">
+    <list default="true" id="2600fa62-b47c-4910-b239-22b1d30d6f1c" name="Changes" comment="add long_time_job_and_token.py and guess_the_password.py">
       <change afterPath="$PROJECT_DIR$/compare_query_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_the_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/base_case.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/long_redidect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long_time_job_and_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_user_auth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
@@ -50,6 +53,11 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dliav\PycharmProjects\training\API_test_automation_with_requests\tests" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.guess_the_password">
     <configuration name="compare_query_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_test_automation_with_requests" />
@@ -210,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707052034156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add long_time_job_and_token.py and guess_the_password.py">
+      <option name="closed" value="true" />
+      <created>1707219864105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707219864105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -218,6 +234,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="accomplish second lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="accomplish second lesson" />
+    <MESSAGE value="add long_time_job_and_token.py and guess_the_password.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add long_time_job_and_token.py and guess_the_password.py" />
   </component>
 </project>
